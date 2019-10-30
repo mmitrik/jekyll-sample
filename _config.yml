@@ -26,8 +26,7 @@ github_username:  mmitrik
 
 # Build settings
 markdown: kramdown
-# theme: minima
-remote_theme: benbalter/retlab
+theme: minima
 plugins:
   - jekyll-feed
 
